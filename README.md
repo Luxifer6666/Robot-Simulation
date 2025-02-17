@@ -14,6 +14,7 @@ la cinemática directa (o forward kinematics), que consiste en calcular la posic
 > Brazo 1: Este código simula un brazo robótico de dos eslabones con una base rotatoria en 3D. Se calcula la cinemática directa del sistema, determinando la posición final de cada
 > eslabón en el espacio tridimensional según ángulos de entrada. Se emplean transformaciones de coordenadas para representar el movimiento correcto del brazo y su base. En Python se
 > utiliza Matplotlib para la visualización y en MATLAB se implementa un sistema equivalente con gráficos 3D.
+![Figure_1p](https://github.com/user-attachments/assets/b0f76702-6fc3-40bf-b89a-455d4e348a5b)
 
 
 > Brazo 2: En esta variante, el primer eslabón se mueve en el eje Y, mientras que el segundo se mueve en el eje X. La base también puede girar en torno al eje Y, permitiendo
