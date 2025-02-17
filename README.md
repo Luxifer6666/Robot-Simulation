@@ -14,7 +14,7 @@ Este código simula un brazo robótico de dos eslabones con una base rotatoria e
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/16c40605-b86a-4902-9d95-06ecfb39fb94" alt="Figure_1p" width="45%">
-  <img src="https://github.com/user-attachments/assets/7b8bc2cf-31ee-4dc3-88cd-4053cc527bb2" alt="Figure_1m" width="45%">
+  <img src="https://github.com/user-attachments/assets/7b8bc2cf-31ee-4dc3-88cd-4053cc527bb2" alt="Figure_1m" width="44%">
 </div>
 
 ---
