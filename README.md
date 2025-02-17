@@ -1,6 +1,8 @@
-# INSTITUTO POLITÉCNICO NACIONAL  
-# UNIDAD PROFESIONAL INTERDISCIPLINARIA EN INGENIERÍA Y TECNOLOGÍAS AVANZADAS  
-# SERVICIO SOCIAL - EDUARDO CRUZ OMAÑA - 2025  
+# Simulación de brazos roboticos y cuadrupedo con cinemática directa
+
+## INSTITUTO POLITÉCNICO NACIONAL  
+## UNIDAD PROFESIONAL INTERDISCIPLINARIA EN INGENIERÍA Y TECNOLOGÍAS AVANZADAS  
+## SERVICIO SOCIAL - EDUARDO CRUZ OMAÑA - 2025  
 
 Este documento explica los códigos de distintas simulaciones de brazos robóticos en 3D, comenzando con modelos simples y aumentando la complejidad hasta llegar a un robot cuadrúpedo.  
 Las simulaciones se desarrollaron en Python utilizando Visual Studio Code y, posteriormente, se adaptaron a MATLAB.  
