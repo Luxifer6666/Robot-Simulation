@@ -10,11 +10,11 @@ Los robots se representan de manera simplificada mediante líneas para facilitar
 ---
 
 ## 🔹 **Brazo 1**  
-Este código simula un brazo robótico de dos eslabones con una base rotatoria en 3D.  
+Este código simula un brazo robótico de dos eslabones con una base rotatoria en 3D. Se calcula la cinemática directa del sistema, determinando la posición final de cada eslabón en el espacio tridimensional según ángulos de entrada.  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/16c40605-b86a-4902-9d95-06ecfb39fb94" alt="Figure_1p" width="45%" height="250">
-  <img src="https://github.com/user-attachments/assets/7b8bc2cf-31ee-4dc3-88cd-4053cc527bb2" alt="Figure_1m" width="45%" height="250">
+  <img src="https://github.com/user-attachments/assets/16c40605-b86a-4902-9d95-06ecfb39fb94" alt="Figure_1p" width="45%">
+  <img src="https://github.com/user-attachments/assets/7b8bc2cf-31ee-4dc3-88cd-4053cc527bb2" alt="Figure_1m" width="49%">
 </div>
 
 ---
@@ -66,6 +66,3 @@ Este código modela un robot cuadrúpedo, simulando el movimiento de sus patas m
   <img src="https://github.com/user-attachments/assets/ad8ec949-c615-46b7-9b91-879e7ee342a6" alt="Figure_6p" width="45%">
   <img src="https://github.com/user-attachments/assets/7a69099c-4eb1-4fe7-93e6-23ab0098b0e2" alt="Figure_6m" width="45%">
 </div>
-
-
-
